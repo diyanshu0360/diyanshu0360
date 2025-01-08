@@ -1,4 +1,4 @@
-### <div align="center">Hi! 👋 I'm Diyanshu, a full-time full-stack web / app developer 👨‍💻 working rin Software Development, Developer Relations, and Product Management.🚀</div>  
+### <div align="center">Hi! 👋 I'm Diyanshu, a full-time full-stack web / app developer 👨‍💻 working in Software Development, Product Development, and Product Management.🚀</div>  
   
 
 - 🔭 I’m currently working on vixwise. (https://vixwise.live)  
